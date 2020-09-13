@@ -1,7 +1,7 @@
 {
   "name": "@vwt12eh8/noble-bindings-winrt",
   "description": "Noble (Node.js Bluetooth LE) bindings for Windows 10",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "gv@timeular.com",
   "license": "MIT",
   "repository": {
@@ -16,8 +16,8 @@
     "node": ">=6.14.2"
   },
   "dependencies": {
-    "napi-thread-safe-callback": "0.0.6",
-    "node-addon-api": "1.6.2"
+    "napi-thread-safe-callback": "^0.0.6",
+    "node-addon-api": "^1.7.2"
   },
   "devDependencies": {
     "@types/node": "^6.14.11"
