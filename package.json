@@ -13,7 +13,10 @@
     "win32"
   ],
   "engines": {
-    "node": ">=6.14.2"
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "node test"
   },
   "dependencies": {
     "napi-thread-safe-callback": "^0.0.6",
